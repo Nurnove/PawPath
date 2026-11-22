@@ -65,6 +65,8 @@ Screenshots of the application will be added here.
 ## 👨‍💻 Contributors
 
 - Nurnove
+- Nahidul Islam
+  
 
 ## 📄 License
 
